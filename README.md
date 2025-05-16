@@ -1,1 +1,1 @@
-﻿# Agricultural Monitoring and Action System with MongoDB, Express, React and Node
+﻿# Agricultural Marketplace, and Monitoring System with MongoDB, Express, React and Node
